@@ -1,0 +1,28 @@
+body{
+    background:url("../image/14.jpg");
+    background-size:100% 100%;
+}
+table {
+    margin-top:130px;
+    margin-left:500px;
+    width:500px;
+    height:300px;
+}
+.button {
+    background: #46A3FF;
+    font-size: 20px;
+    width: 300px;
+margin-left:50px;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background: #ACD6FF;
+    color: red;
+
+}
+
+.button:active {
+    background: #FFD2D2;
+    color: white;
+}

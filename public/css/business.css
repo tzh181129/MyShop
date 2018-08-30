@@ -1,0 +1,31 @@
+.button {
+    background: #46A3FF;
+    font-size: 20px;
+    width: 300px;
+    margin-left:80px;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background: #ACD6FF;
+    color: red;
+
+}
+
+.button:active {
+    background: #FFD2D2;
+    color: white;
+}
+.img{
+    margin-top:80px;
+    float:left;
+}
+table{
+    width:600px;
+    height:400px;
+    margin-top:130px;
+    float:right;
+}
+body{
+    background:#f8d7da;
+}
